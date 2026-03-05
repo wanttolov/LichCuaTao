@@ -1,4 +1,4 @@
 1.1
 https://github.com/wanttolov/LichCuaTao/releases/download/1.0/LichCuaTao_Setup_Silent.exe
 nguyen
-lock
+unlock
